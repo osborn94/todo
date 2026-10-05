@@ -1,0 +1,10 @@
+task resource:
+
+id
+title
+description
+completed
+createdAt
+updatedAt
+
+
